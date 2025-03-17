@@ -19,7 +19,7 @@ stock_analysis_app/
 │
 |
 ├── templates/                
-│   └──      index.html            
+│   └── index.html            
 │
 ├── static/                  
 
