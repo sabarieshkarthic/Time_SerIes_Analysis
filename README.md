@@ -14,10 +14,12 @@ This is a Flask web application that retrieves stock price data using the Polygo
 # Project Structure
 stock_analysis_app/
 │
+|
 ├── app.py                     
 │
+|
 ├── templates/                
-│   └── index.html            
+│   └──      index.html            
 │
 ├── static/                  
 
